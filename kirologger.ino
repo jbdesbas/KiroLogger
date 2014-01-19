@@ -11,7 +11,7 @@ File fichier;
 #define ONE_WIRE_BUS 5 //Thermo 
 
 //Définition des broches
-#define PIN_SS 10 //Pour la carte SD (pin SS)
+#define PIN_SS 10 //Pour la carte SD (pin SS), (au choix, ou 4 si shield)
 #define LED_TEMOIN 2 //Rouge ou verte
 //Pour l'horloge
 #define RTC_RST 7 //CE(RST)
